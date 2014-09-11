@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eafcb909c8679c450d5c1006b3aee67f:732defa225ef557078fc1c6d12d62eb9:3d386838d3253c75889c67515ab77d98$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="SpriteSheet.png" width="234" height="324">
+    <sprite n="Asteroid.png" x="2" y="2" w="178" h="154" oX="15" oY="26" oW="200" oH="200"/>
+    <sprite n="Ball1.png" x="180" y="266" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+    <sprite n="Ball2.png" x="126" y="266" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+    <sprite n="Ball3.png" x="180" y="212" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+    <sprite n="Ball4.png" x="126" y="212" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+    <sprite n="Ball5.png" x="180" y="158" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+    <sprite n="BlackHole.png" x="2" y="158" w="122" h="126" oX="13" oY="11" oW="150" oH="150"/>
+    <sprite n="BlueBox.png" x="182" y="54" w="50" h="50"/>
+    <sprite n="RedBox.png" x="182" y="2" w="50" h="50"/>
+    <sprite n="Satellite.png" x="2" y="286" w="90" h="30" r="y"/>
+    <sprite n="Shadow.png" x="126" y="158" w="52" h="52" oX="24" oY="24" oW="100" oH="100"/>
+</TextureAtlas>
